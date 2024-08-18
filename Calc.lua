@@ -1,5 +1,5 @@
 local Calc = {}
--- Calculator made by ScriptedPython
+-- Calculator made by Kevin Mitchell
 grammar = {
 	plus = "^%+",
 	dot = "^%.", -- Not implemented
