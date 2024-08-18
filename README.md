@@ -1,2 +1,2 @@
 # NestedExprEval
-Expression evaluator designed for Roblox Studio.
+Expression evaluator designed in Lua.
