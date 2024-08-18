@@ -1,3 +1,4 @@
+-- This code integrates with Roblox Studio
 local CalculatorGui = script.Parent
 local Keypad = CalculatorGui.Keypad
 local Calc = require(CalculatorGui.Calc)
